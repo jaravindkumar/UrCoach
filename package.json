@@ -1,0 +1,8 @@
+{
+  "name": "urcoach",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "resend": "^4.7.0"
+  }
+}
